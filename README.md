@@ -1,7 +1,7 @@
 KPA Backend Assignment – API Development
 This is a Django-based backend project implementing two APIs as per the assignment requirements. It connects to a PostgreSQL database and is integrated with the Flutter frontend (partially tested).
 
-✅ 2. Bogie Checksheet Submission API
+✅ 1. Bogie Checksheet Submission API
 Endpoint: POST /api/forms/bogie-checksheet/
 Purpose: Submits a filled bogie checksheet form to the backend.
 Functionality Covered:
@@ -11,7 +11,7 @@ Stores data in PostgreSQL
 Type: POST
 Features: Nested JSON, structured form data, PostgreSQL integration
 
-Wheel Specifications API
+✅ 2.Wheel Specifications API
 Endpoint: GET /api/forms/wheel-specifications/
 Purpose: Retrieve wheel specification records from PostgreSQL.
 Method: GET
