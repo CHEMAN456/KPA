@@ -47,3 +47,22 @@ Server will be live at: http://127.0.0.1:8000
 Login API tested and working ✅
 Data submission partially integrated (Bogie + Wheel forms)
 
+🛠️ Technologies & Tech Stack Used
+🔙 Backend
+Language: Python 3.x
+Framework: Django 4.x, Django REST Framework (DRF)
+Database: PostgreSQL
+Authentication: Django built-in authentication system
+API Testing: Postman
+CORS Handling: django-cors-headers
+
+🔗 API Integration (Planned)
+Frontend: Flutter (integration attempted but not fully completed)
+
+Base API URL: http://127.0.0.1:8000/api/
+
+📁 Tools & Services
+Version Control: Git & GitHub
+Environment: Localhost
+Package Management: pip
+Firebase (optional frontend config): FlutterFire CLI, Firebase Auth
