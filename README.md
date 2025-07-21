@@ -46,4 +46,4 @@ Server will be live at: http://127.0.0.1:8000
 
 Login API tested and working ✅
 Data submission partially integrated (Bogie + Wheel forms)
-Full integration was attempted, but due to CORS/local limitations, some Flutter API calls did not complete successfully.
+
